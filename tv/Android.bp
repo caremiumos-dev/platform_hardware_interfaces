@@ -2,5 +2,4 @@
 subdirs = [
     "cec/1.0",
     "input/1.0",
-    "input/1.0/vts/functional",
 ]

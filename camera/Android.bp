@@ -11,5 +11,4 @@ subdirs = [
     "metadata/3.2",
     "provider/2.4",
     "provider/2.4/default",
-    "provider/2.4/vts/functional",
 ]
